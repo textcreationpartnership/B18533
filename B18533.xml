@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dear friends, let your disease be what God will, pray to him for a cure, try Case's skill; who may be such an healing instrument, as will cure you to your own heart's content.</title>
+            <author>Case, John, fl. 1680-1700.</author>
+         </titleStmt>
+         <extent>Approx. 2KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18533</idno><idno type="EEBO-CITATION">99888994</idno>
+  <idno type="VID">196126</idno>
+  <idno type="EEBO-PROQUEST">2240901956</idno>
+  
+            <idno type="STC">Wing C819AB</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[135]</idno>
+            <idno type="STC">ESTC R232631</idno>
+            <idno type="PROQUEST">ocm99888994</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888994e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196126)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[134])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dear friends, let your disease be what God will, pray to him for a cure, try Case's skill; who may be such an healing instrument, as will cure you to your own heart's content.</title>
+                  <author>Case, John, fl. 1680-1700.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1690 and 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first lines of text.</note>
+                  <note>First half of document in verse; the 11-13th lines of text (in verse) are connected by a right bracket</note>
+                  <note>Imprint from Wing.</note>
+                  <note>At end: "He is to be spoken with alone, from eight in the morning, till eight at night."</note>
+                  <note>Following verse: "By J. Case, an approved and licensed physician,".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  England --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:196126:1"/>
+            <lg>
+               <l>DEar Friends, let your Disease be what God will,</l>
+               <l>Pray to him for a Cure, Try <hi>CASE</hi>'s Skill,</l>
+               <l>Who may be such an healing Instrument,</l>
+               <l>As will Cure you to your own Heart's Content,</l>
+               <l>His Medicines are Cheap, and truly Good,</l>
+               <l>Being full as safe as your daily Food.</l>
+               <l>
+                  <hi>CASE</hi> he can do what may be done, by</l>
+               <l>Either Physick, or true Astrology:</l>
+               <l>His Best Pills, Rare Elixir and Powder,</l>
+               <l>Do each day praise him Lowder and Lowder.</l>
+               <l>Dear Country-men, I pray you be so wise</l>
+               <l>When Men Back-bite him, believe not their Lyes,</l>
+               <l>But go see him, believe your own Eyes.</l>
+               <l>Then he will say you are Honest and Kind.</l>
+               <l>Try before you Judge, and Speak as you Find.</l>
+            </lg>
+            <p>By <hi>J. CASE,</hi> an Approved and Licensed Physi<g ref="char:EOLhyphen"/>cian, and Student in Astrology, who, (through God's Mercy) to do good, now liveth at the <hi>Back Ball</hi> and Old <hi>Lilly</hi>'s <hi>Head,</hi> next Door to the Feather-shops that are within <hi>Black Friers</hi> Gate-way, which is over against <hi>Ludgate</hi> Church, just by <hi>Ludgate</hi> in <hi>London.</hi> Of him the Poor, Sore, Sick and Lame, may have Advice for No<g ref="char:EOLhyphen"/>thing, and proper Medicines for every particular Distem<g ref="char:EOLhyphen"/>per, at reasonable Rates, ready prepared, with plain Di<g ref="char:EOLhyphen"/>rections how to use them, to Cure either Men, Women, or Children, of any Disease or Diseases afflicting any Bo<g ref="char:EOLhyphen"/>dy, whether inward or outward, of what Name or Na<g ref="char:EOLhyphen"/>ture soever, (if Curable:) Also of this you may be sure, he hath Medicines to prevent, as well as Cure.</p>
+            <p>Lastly, He doth with great Certainty and Privacy Resolve all manner of Lawful Questions according to the Rules of Christian Astrology, and more than Fifteen Years Experience.</p>
+            <p>He is to be spoken with alone, from Eight in the Morning, till Eight at Night.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
